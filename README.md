@@ -5,7 +5,7 @@ This repository contains my academic and personal projects.
 # Projects
 1.Restaurant Table Booking System
 
-2.Coffee House Sales Dashboard
+2.Coffee House Sales Analysis
 
 # Skills
 1.Excel
