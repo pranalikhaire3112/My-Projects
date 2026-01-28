@@ -50,3 +50,50 @@ It includes data cleaning, pivot tables, dashboards, and visualizations to prese
 4.Pivot tables
 
 5.Interactive dashboard
+
+📊 **Dashboard Overview**
+
+The main dashboard provides a consolidated view of:
+
+1.Total Sales
+
+2.Number of Transactions
+
+3.Average Transaction Value
+
+4.Sales by Coffee Type
+
+5.Sales by Payment Method
+
+6.Sales & Transactions by Weekday
+
+📈 **Sales Trend Analysis**
+
+This visual shows how sales and transactions vary across weekdays, helping identify peak and low-performing days.
+
+📸 **Sales Trend Screenshot**:
+
+Insights:
+
+1.Sales are higher on weekdays compared to weekends
+
+2.Mid-week shows consistent performance
+
+3.Useful for staffing and inventory planning
+
+🗃️ **Sample Raw Data**
+
+📸 Raw Data Screenshot:
+
+Data includes:
+
+1.Coffee name
+
+2.Sales amount
+
+3.Transaction count
+
+4.Payment type
+
+5.Weekday information
+
