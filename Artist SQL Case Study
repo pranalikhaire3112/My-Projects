@@ -1,0 +1,31 @@
+**SQL Artist Analysis Project**
+
+## 📌 Project Overview
+This project is created as a beginner-friendly SQL project to analyze an artist dataset.
+It demonstrates SQL skills using real-world style questions.
+
+## 🗂 Dataset
+- File: artist.csv
+- Contains information about artists such as full name, nationality, birth year, and death year.
+
+## 🛠 Tools Used
+- MySQL
+- MySQL Workbench
+- GitHub
+
+## 📊 SQL Concepts Covered
+- SELECT, WHERE, ORDER BY
+- GROUP BY, HAVING
+- Aggregate Functions (COUNT, AVG, MIN, MAX)
+- CASE WHEN (IF–ELSE logic)
+- Subqueries
+- Window Functions (ROW_NUMBER, RANK)
+
+## 🧠 Key Learnings
+- Writing optimized SQL queries
+- Handling NULL values
+- Using conditional logic in SQL
+- Data analysis using SQL
+
+## 👩‍💻 Author
+Pranali Khaire
