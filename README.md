@@ -7,6 +7,8 @@ This repository contains my academic and personal projects.
 
 2.Coffee House Sales Analysis
 
+3.Artist SQL Casr Study
+
 # Skills
 1.Excel
 
